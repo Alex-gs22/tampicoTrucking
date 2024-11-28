@@ -372,7 +372,6 @@ a:not([href]):not([tabindex]):hover {
   border-radius: 5px;
   margin-top: 10px;
   margin-bottom: 15px;
-  webkit-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }

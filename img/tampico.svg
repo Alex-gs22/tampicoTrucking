@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <!-- Cabina del tráiler -->
+  <rect x="100" y="150" width="200" height="120" fill="black" />
+  <rect x="130" y="170" width="140" height="80" fill="white" />
+  
+  <!-- Parte frontal -->
+  <polygon points="100,150 80,170 80,220 100,270" fill="black" />
+  <rect x="80" y="190" width="20" height="20" fill="white" />
+  
+  <!-- Ventanas -->
+  <polygon points="150,150 200,150 190,170 150,170" fill="white" />
+  
+  <!-- Remolque -->
+  <rect x="300" y="150" width="400" height="120" fill="black" />
+  
+  <!-- Chimeneas -->
+  <rect x="210" y="120" width="10" height="40" fill="black" />
+  <rect x="230" y="120" width="10" height="40" fill="black" />
+  
+  <!-- Ruedas -->
+  <circle cx="140" cy="300" r="20" fill="black" />
+  <circle cx="160" cy="300" r="20" fill="black" />
+  <circle cx="350" cy="300" r="20" fill="black" />
+  <circle cx="400" cy="300" r="20" fill="black" />
+  <circle cx="450" cy="300" r="20" fill="black" />
+  <circle cx="500" cy="300" r="20" fill="black" />
+</svg>
